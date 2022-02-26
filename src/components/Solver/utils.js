@@ -201,19 +201,19 @@ const utils = {
     ],
 
     faceColors: [
-        "#015be3",     // 1
-        "#ff80ce",     // 2 pink
-        "yellow",   // 3
+        "#0000ff",     // 1
+        "yellow",     // 2 pink
+        "white",   // 3
         "red",      // 4
-        "green",    // 5
-        "#c585f7",  // 6 light purple
+        "#ff80ce",    // 5
+        "#64dd17",  // 6 light purple
 
         "#4fc3f7",  // 7 light blue
-        "#C39B77",  // 8 light brown
-        "#64dd17",  // 9 light green
-        "orange",   // 10
-        "#BE00FE",   // 11
-        "white"     // 12
+        "orange",  // 8 light brown
+        "purple",  // 9 light green
+        "green",   // 10
+        "#C39B77",   // 11
+        "gray"     // 12
     ]
 }
 

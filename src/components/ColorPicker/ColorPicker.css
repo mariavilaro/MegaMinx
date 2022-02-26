@@ -124,11 +124,13 @@
 }
 
 .pink{
-    background-color: #ff80ce;
+    /* background-color: #ff80ce; */
+    background-color: yellow;
 }
 
 .yellow{
-    background-color: yellow;
+    /* background-color: yellow; */
+    background-color: white;
 }
 
 .red{
@@ -136,11 +138,13 @@
 }
 
 .green{
-    background-color: green;
+    /* background-color: green; */
+    background-color: #ff80ce;
 }
 
 .light-purple{
-    background-color: #c585f7;
+    /* background-color: #c585f7; */
+    background-color: #64dd17;
 }
 
 .light-blue{
@@ -148,21 +152,26 @@
 }
 
 .light-brown{
-    background-color: #C39B77;
-}
-
-.light-green{
-    background-color: #64dd17;
-}
-
-.orange{
+    /* background-color: #C39B77; */
     background-color: orange;
 }
 
-.purple{
+.light-green{
+    /* background-color: #64dd17; */
     background-color: purple;
 }
 
+.orange{
+    /* background-color: orange; */
+    background-color: green;
+}
+
+.purple{
+    /* background-color: purple; */
+    background-color: #C39B77;
+}
+
 .white{
-    background-color: white;
+    /* background-color: white; */
+    background-color: gray;
 }
